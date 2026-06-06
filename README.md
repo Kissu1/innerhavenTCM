@@ -130,7 +130,6 @@ Students can start anonymous conversations with counselors without revealing the
 
 ### Closing Conversations
 - [ANON-0003](REQ-005-Anonymous-Help/ANON-0003.md) — Student closes their anonymous conversation
-- [ANON-0004](REQ-005-Anonymous-Help/ANON-0004.md) — Counselor closes an anonymous conversation
 
 ### Viewing & Managing
 - [ANON-0006](REQ-005-Anonymous-Help/ANON-0006.md) — Counselor views their queue of active anonymous conversations
